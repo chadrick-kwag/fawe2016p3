@@ -1,0 +1,52 @@
+<table>
+<tr>
+<th>
+<input type="text" id="11" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="12" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="13" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="14" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="15" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="16" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="17" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="18" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="19" class="jscolor" value="000000">
+</th>
+</tr>
+<tr>
+<th>
+<input type="text" id="110" class="jscolor" value="000000">
+</th>
+</tr>
+</table>
